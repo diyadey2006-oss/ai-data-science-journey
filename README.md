@@ -1,21 +1,24 @@
 
-# AI & Data Science Journey
+ AI & Data Science Journey
 
 This repository documents my learning journey in Data Science and AI.
 
-## Objectives
+ Objectives
 - Learn Python for Data Science
 - Practice real datasets
 - Build beginner ML projects
 
-## Contents
+ Contents
 - Python Practice
 - Data Analysis
 - Mini Projects
 - Notes
 
-## Tools Used
-Python | Pandas | NumPy | Matplotlib
+ Tools Used
+Python 
+Pandas 
+NumPy 
+Matplotlib
 
 ## Author
 Anwesha Dey
