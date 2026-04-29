@@ -19,8 +19,14 @@ This repository documents my learning journey in Data Science and AI.
 Python 
 Pandas 
 NumPy 
-Matplotlib
+Git and Git hub
 
-## Author
+Current Learning Focus
+Data Analysis
+Machine Learning Fundamentals
+Research orientated AI Projects
+
+# Author
 Anwesha Dey
 BTech EE Student (May Transitioning to CS)
+Open to research Internships and Collaboration.
