@@ -20,6 +20,7 @@ Python
 Pandas 
 NumPy 
 Git and Git hub
+Tableau
 
 Current Learning Focus
 Data Analysis
@@ -28,5 +29,5 @@ Research orientated AI Projects
 
 # Author
 Anwesha Dey
-BTech EE Student (May Transitioning to CS)
+BTech Cse Student 
 Open to research Internships and Collaboration.
